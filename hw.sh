@@ -1,1 +1,1 @@
-echo "MrSaxoGit"
+echo "Git."
